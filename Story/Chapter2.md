@@ -7,7 +7,7 @@ The player learns that gases and minerals are essential resources to all product
 
 The player will have an opportunity to earn a free small mining vessel in this chapter.
 
-[<< Back Chapter 1](./Chapter1.md)
+[<< Back Chapter 1](./Chapter1.md) |
 
 ## TODO:
 - Define the factions

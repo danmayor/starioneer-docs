@@ -3,8 +3,8 @@ Starioneer is a fantasy near future space flight simulator game with light strat
 
 Our player starts off doing some basic flight training and begins working missions for the Terran Starioneer Program (TSP). These missions will further teach the player about the game and help them earn some money as well as their first shuttly, which in turn unlocks new missions from the various factions that have began settling among the stars. 
 
-[Next Chapter 1 >>](./Story/Chapter1.md)  
-  
+[Next Chapter 1 >>](./Story/Chapter1.md) |
+
 # Key Design Elements
 The game design is broken down into our key logical design elements. These elements are further defined the following folders:
 
