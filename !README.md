@@ -8,9 +8,9 @@ See the [Story](./Story) folder for more on the story designs, specifically what
 # Key Design Elements
 The game design is broken down into our key logical design elements. These elements are further defined the following folders:
 
-1. [Game Logic Systems](./GameLogic/!README.md) - Defines the logic jobs
-1. [Ships Overview](./Ships/!README.md) - Defines ship assets and scripts
-1. [Stations Overview](./Stations/!README.md) - Defines space stations, and colonies
-1. [Missions Overview](./Missions/!README.md) - Defines missions (quests)
-1. [Economy Overview](./Economy/!README.md) - Defines commodities, trading and production logic
-1. [Crew Overview](./Crew/!README.md) - Defines the crew system
+1. [Game Logic Systems](./GameLogic/README.md) - Defines the logic jobs
+1. [Ships Overview](./Ships/README.md) - Defines ship assets and scripts
+1. [Stations Overview](./Stations/README.md) - Defines space stations, and colonies
+1. [Missions Overview](./Missions/README.md) - Defines missions (quests)
+1. [Economy Overview](./Economy/README.md) - Defines commodities, trading and production logic
+1. [Crew Overview](./Crew/README.md) - Defines the crew system
