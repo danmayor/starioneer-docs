@@ -9,5 +9,5 @@ We will leverage the Unity Job system to run our "ai" logic on background thread
 
 General idea, our "AI" will be a job that takes an array of game objects, calculate some basic outcomes and call functions on the Ship, and Station objects to drive our game.
 
-[<< Back: Home](../README.md) || [Next: Ships >>](../Ships/README.md)
+[<< Back: Home](../README.md) || [Next: Space Ships >>](../Ships/README.md)
 

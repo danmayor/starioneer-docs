@@ -15,4 +15,4 @@ The game design is broken down into our key logical design elements. These eleme
 1. [Economy Overview](./Economy/README.md) - Defines commodities, trading and production logic
 1. [Crew Overview](./Crew/README.md) - Defines the crew system
 
-[Next: Game Logic >>](./GameLogic/README.md)
+[Next: Game Logic >>](./GameLogic/README.md) |
