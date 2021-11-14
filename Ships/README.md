@@ -6,3 +6,6 @@ Space ships in Starioneer will be prefab assets that attach our space ship scrip
 Read more about:
 - [Ship Prefabs](./ShipPrefabs.md)
 - [Ship Scripts](./ShipScripts.md)
+
+[<< Back Game Logic](../GameLogic/README.md) || [Next Space Stations >>](../Stations/README.md)
+

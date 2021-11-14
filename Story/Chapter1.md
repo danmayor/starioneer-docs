@@ -7,7 +7,7 @@ Once the player has completed their flight course, they will be taught about mis
 
 The chapter continues, the player can accept TSP missions using vessels to earn some quick cash and starting our story line. The player will complete a mission for each faction, becoming acquainted with each before earning their own shuttle and being released into the game universe for real!
 
-[Next: Chapter 2](./Chapter2.md)
+[<< Back Home](../README.md) || [Next: Chapter 2 >>](./Chapter2.md)
 
 ## TODO
 - Define the actual missions
