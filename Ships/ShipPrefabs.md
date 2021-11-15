@@ -1,7 +1,7 @@
 # Ship Prefabs
-In this section we discuss Space Ship prefabs, which we mean the root game object, and child assets that define the in game visual representation of a space ship. 
+In this section we discuss Space Ship prefabs, which we mean the root game object, and child assets that define the in game visual representation of a space ship. The prefab should have a root object, and child components for the model(s) and colliders for a space ship.
 
-Ship prefabs should be modular and need to provide some specific components to help drive our limited customization systems.
+Ship prefabs should be modular and need to provide some specific components to help drive our limited customization systems such as:
 
 __Command Position__  
 Command position should be an empty node that is positioned within the cockpit of the space ship. This is where we will attach the camera when our player is piloting this ship.
