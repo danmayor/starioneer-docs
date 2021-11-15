@@ -1,19 +1,31 @@
 # Chapter 2: Drawing Lines
-The player has earned their own small scout ship from Chapter 1 and is now ready to start their journey. This scout ship is equipped with basic defenses, a jump drive and navigational maps to the primary sectors where each of the Terran factions are building their new universal empires.
+The player has earned a small scout vessel with a jump drive and navigational coordinates to home sectors for each of our factions. The player is now free to do side missions from TSP Command, and can jump to these new sectors for the factions.
 
-In this chapter the player will start learning more about the economy of our game. There are factions looking to expand, they offer missions to acquire and secure resource mining and production operations.
+__Side Missions__  
+Perhaps we could have some simple random repeating missions to search for items, signals, transport people around etc.
 
-The player learns that gases and minerals are essential resources to all production and trade in the known Terran universe. The player will perform missions for the various factions that deploy satellites, patrol sectors, mine resources, and harvest gases.
+__The Techies__  
+Just a working name, but this faction would be focused around technological and scientifical advancement. 
+- Find "weird signals"
+- Deploy satellite to location
 
-The player will have an opportunity to earn a free small mining vessel in this chapter.
+__The Workers__  
+Also a working name, this faction are the manufacturers and commercial business types.
+- Find rare ore
+- Deploy becon satellite to location
 
-[<< Back Chapter 1](./Chapter1.md) |
+__The Warriors__  
+You got it, another working name. This faction is militant but in the name of "peace".
+- Transport delegate to The Techies
+- Transport delegate to The Workers
 
-## TODO:
-- Define the factions
-  - Provide some lore
-  - Provide some missions
+__Pirates__  
+Of course pirates.. The player should have enough money now to purchase some blasters and shields. Which they will need to help each of our factions with their pirate missions!
+- Destroy the pirate ship harrassing The Techies
+- Destroy the pirate ship harrassing The Workers
+- Join pirate patrol with the Warriors
+  - Requires Techies and Workers completed first, awards a small fighter
 
-- Define conditions / milestones of chapter
+After completing the Warriors pirate patrols, the player will enter Chapter 3 game play.
 
-- Next chapter
+[<< Back: Chapter 1](./Chapter1.md) || [Next: Chapter 3 >>](./Chapter3.md)
