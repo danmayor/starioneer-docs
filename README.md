@@ -5,6 +5,10 @@ Our player starts off doing some basic flight training and begins working missio
 
 [Next Chapter 1 >>](./Story/Chapter1.md) |
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Key Design Elements
 The game design is broken down into our key logical design elements. These elements are further defined the following folders:
 
@@ -16,6 +20,10 @@ The game design is broken down into our key logical design elements. These eleme
 1. [Crew Overview](./Crew/README.md) - Defines the crew system
 
 [Next: Game Logic >>](./GameLogic/README.md) |
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Team & Tech
 Follow the links below to learn more about the team, and the technologies that we are using.
