@@ -26,4 +26,4 @@ Workers need bodies to keep up as products start flowing. But it would be inhuma
 __TSP Supply Savior__  
 After completing all faction quests and turning in the TSP Supply Savior, the player is awarded with a TSP business license. Perfect timing now that the player has a transport, and a cargo ship, a scout and a small fighter. 
 
-[<< Back: Chapter 2](./Chapter2.md) |
+[<< Back: Chapter 2](./Chapter2.md) | [Next: Chapter 4 >>](./Chapter4.md)

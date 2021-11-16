@@ -16,3 +16,10 @@ The game design is broken down into our key logical design elements. These eleme
 1. [Crew Overview](./Crew/README.md) - Defines the crew system
 
 [Next: Game Logic >>](./GameLogic/README.md) |
+
+# Team & Tech
+Follow the links below to learn more about the team, and the technologies that we are using.
+
+- [Game Platforms](./Platforms.md)
+- [Team Structure & Members](./TeamStructure.md)
+- [Engine & Tools](./DevTools.md)
