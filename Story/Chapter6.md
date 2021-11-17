@@ -24,4 +24,4 @@ The player will be asked to escort a convoy to the summit sector, once in the se
 
 Trading now can occur between all factions and the grays sectors. The player advances to Chapter 7.
 
-[<< Back: Chapter 5](./Chapter5.md) |
+[<< Back: Chapter 5](./Chapter5.md) || [Next: Chapter 7 >>](./Chapter7.md)
