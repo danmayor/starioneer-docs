@@ -11,4 +11,4 @@ We could allow the player to continue with in an open world that takes place at 
 
 Maybe DLC could introduce new scenarios / missions in this open world mode.
 
-[<< Back: Chapter 7](./Chapter7.md) |
+[<< Back: Chapter 7](./Chapter7.md) || [Home](../README.md)
